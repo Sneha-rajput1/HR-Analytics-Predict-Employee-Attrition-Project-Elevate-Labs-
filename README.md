@@ -56,7 +56,7 @@ The slicer allows users to filter the entire dashboard by department for detaile
 - Power BI
 - Power Query
 - DAX (Data Analysis Expressions)
-- Microsoft Excel (Dataset)
+  
 
 ---
 
