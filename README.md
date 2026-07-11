@@ -55,9 +55,7 @@ The slicer allows users to filter the entire dashboard by department for detaile
 
 - Power BI
 - Power Query
-- DAX (Data Analysis Expressions)
   
-
 ---
 
 ## ⚙️ Data Preparation
@@ -76,30 +74,7 @@ The dataset was cleaned before visualization by:
 ### Data Processing
 
 - Loaded the cleaned dataset into Power BI
-- Created calculated columns and measures using DAX
 - Built an interactive dashboard with filters and visualizations
-
----
-
-## 📐 DAX Measures Used
-
-The following DAX functions were used throughout the project:
-
-- COUNT()
-- SUM()
-- CALCULATE()
-- DIVIDE()
-- AVERAGE()
-- IF()
-
-### Measures Created
-
-- Total Employees
-- Total Attrition
-- Attrition Rate
-- Average Salary
-- Average Age
-- Average Years at Company
 
 ---
 
