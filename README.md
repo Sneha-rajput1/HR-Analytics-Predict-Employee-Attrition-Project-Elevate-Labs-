@@ -32,12 +32,12 @@ The slicer allows users to filter the entire dashboard by department for detaile
 
 ### Key Performance Indicators (KPIs)
 
-- 👥 Total Employees
-- 🚪 Total Attrition
-- 📉 Attrition Rate
-- 💰 Average Salary
-- 🎂 Average Age
-- 📅 Average Years at Company
+-  Total Employees
+-  Total Attrition
+-  Attrition Rate
+-  Average Salary
+-  Average Age
+-  Average Years at Company
 
 ### Dashboard Visualizations
 
